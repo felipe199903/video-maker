@@ -2,13 +2,12 @@
 
 ## Algorithmia
 
-File: `algorithmia.json´
+File: `algorithmia.json`
 
 ``` 
 {
-    "apiKey": "simPcfLUEWqysOIGETU2cgksi7W1"
+    "apiKey": <your-api-key>
 }
-
 ```
 ## Watson Natural Language Understanding
 
@@ -16,7 +15,7 @@ File: `watson-nlu.json`
 
 ```
 {
-  "apikey": "xPv6PxLPBwsFBfgzuCtkCo_rkS7g6sWWZY4noiMg6Npc",
+  "apikey": <your-api-key>,
   "iam_apikey_description": "Auto-generated for key 10af6061-b276-414d-afb4-818bf72c83a1",
   "iam_apikey_name": "Auto-generated service credentials",
   "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
